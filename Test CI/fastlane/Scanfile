@@ -1,0 +1,4 @@
+scheme "TestCI"
+device "iPhone 7"
+code_coverage true
+clean true
