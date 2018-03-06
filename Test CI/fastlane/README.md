@@ -26,6 +26,11 @@ Description of what the lane does
 fastlane ios test
 ```
 Run the unit tests
+### ios run_danger
+```
+fastlane ios run_danger
+```
+Run Danger
 
 ----
 

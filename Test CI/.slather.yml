@@ -1,0 +1,7 @@
+xcodeproj: ./Test\ CI.xcodeproj
+scheme: TestCI
+html: true
+output_directory: ./fastlane/slather_report
+decimals: 2
+ignore:
+          - "ThirdParty/*"

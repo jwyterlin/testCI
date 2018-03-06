@@ -24,4 +24,9 @@ platform :ios do
     scan
   end
 
+  desc "Run Danger"
+  lane :run_danger do
+    danger(use_bundle_exec: false)
+  end
+
 end
